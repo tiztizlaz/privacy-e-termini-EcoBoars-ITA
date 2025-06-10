@@ -170,25 +170,58 @@
       <p>La versione aggiornata è sempre consultabile presso l’indirizzo pubblico [inserire link, se disponibile].</p>
 
       <h2>10. Contatti</h2>
-      <p>Per qualsiasi richiesta, l’utente può scrivere a:<br />
-      📧 <a href="mailto:tiziano.lazzari1@gmail.com">tiziano.lazzari1@gmail.com</a><br />
-      <a href="https://www.linkedin.com/in/tiziano-lazzari-50443154/" target="_blank" rel="noopener noreferrer">
-        Profilo LinkedIn
-      </a>
-      </p>
+  <p>Per qualsiasi richiesta, l’utente può scrivere a:<br>
+  📧 tiziano.lazzari1@gmail.com</p>
+  <p>Le comunicazioni verranno trattate per il solo tempo necessario alla gestione della richiesta e non saranno archiviate oltre tale scopo, salvo obblighi di legge.</p>
 
-      <h2>11. Informativa Estesa e Fonti Normative</h2>
-      <p>La presente informativa è ispirata e redatta tenendo conto delle disposizioni del GDPR (Regolamento UE 2016/679), del Codice Privacy italiano (D.lgs. 196/2003 e successive modifiche), e delle migliori pratiche per la tutela della privacy e della sicurezza digitale.</p>
-      <p>Per approfondimenti, si rimanda a:</p>
-      <ul>
-        <li><a href="https://gdpr-info.eu/it/" target="_blank" rel="noopener noreferrer">Testo integrale GDPR</a></li>
-        <li><a href="https://www.garanteprivacy.it/regolamentoue" target="_blank" rel="noopener noreferrer">Garante Privacy - Regolamento UE</a></li>
-        <li><a href="https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/1461252" target="_blank" rel="noopener noreferrer">Linee guida e FAQ del Garante</a></li>
-      </ul>
+  <h2>11. Foro Competente, Lingua e Limitazioni Territoriali</h2>
+  <p>L’Applicazione è destinata esclusivamente a utenti residenti nella Repubblica Italiana. L’utilizzo in altri territori avviene sotto esclusiva responsabilità dell’utente.</p>
+  <p>La lingua ufficiale dell’informativa è l’italiano. Il foro esclusivamente competente è quello di Genova, salvo diversa disposizione inderogabile di legge.</p>
 
-    </main>
-  </section>
+  <h2>12. Uso Improprio e Diritto di Sospensione</h2>
+  <p>È vietato l’uso dell’Applicazione per finalità contrarie alla legge, ai presenti termini o alla destinazione d’uso dichiarata.</p>
+  <p>Lo sviluppatore si riserva il diritto di bloccare o sospendere l’accesso all’Applicazione in caso di:</p>
+  <ul>
+    <li>Uso abusivo, fraudolento o illecito;</li>
+    <li>Violazioni intenzionali o gravi dei presenti termini;</li>
+    <li>Segnalazioni documentate di malfunzionamenti causati da condotta dell’utente.</li>
+  </ul>
+
+  <h2>13. Licenza d’Uso e Divieti</h2>
+  <p>L’Applicazione è concessa in licenza personale, non esclusiva, non trasferibile e revocabile.</p>
+  <p>All’utente è espressamente vietato:</p>
+  <ul>
+    <li>Decompilare, disassemblare o effettuare reverse engineering;</li>
+    <li>Modificare, integrare, vendere o distribuire il codice sorgente;</li>
+    <li>Utilizzare l’Applicazione per finalità commerciali senza autorizzazione scritta.</li>
+  </ul>
+
+  <h2>14. Clausola di Salvaguardia</h2>
+  <p>Qualora una qualsiasi clausola della presente informativa risulti invalida o inefficace, le restanti disposizioni rimarranno pienamente valide.</p>
+
+  <h2>15. Legge Applicabile</h2>
+  <p>Il presente documento è disciplinato dalla legge italiana, con riferimento prioritario al GDPR e al Codice del Consumo, ove applicabile.</p>
+
+  <h2>16. Sicurezza, Manomissioni e Terze Parti</h2>
+  <p>L’Applicazione è progettata per operare in un ambiente integro, sicuro e non modificato.</p>
+  <p>Lo sviluppatore declina ogni responsabilità in caso di danni, malfunzionamenti o violazioni derivanti da:</p>
+  <ul>
+    <li>Rooting, jailbreak o modifiche al sistema operativo;</li>
+    <li>Alterazione del codice sorgente, decompilazione, reverse engineering;</li>
+    <li>Presenza di malware, app malevole o dispositivi compromessi;</li>
+    <li>Attacchi informatici o accessi non autorizzati.</li>
+  </ul>
+  <p>L’utente è tenuto a garantire la sicurezza del proprio dispositivo e a evitare l’uso in contesti non sicuri.</p>
+
+  <h2>17. Origine dei Contenuti e Licenze</h2>
+  <p>Tutti i suoni, testi, immagini, grafiche ed elementi dell’interfaccia presenti nell’Applicazione sono stati creati direttamente dallo sviluppatore, oppure generati con l’ausilio di strumenti di intelligenza artificiale, sotto controllo umano diretto.</p>
+  <p>Non sono utilizzati asset di terze parti coperti da licenza commerciale o copyright senza autorizzazione. Eventuali contenuti derivati da strumenti AI sono conformi alle condizioni d’uso delle rispettive piattaforme.</p>
+
+  <p><em>In fede,<br>
+  Tiziano Lazzari – Genova<br>
+  7 giugno 2025</em></p>
 
 </body>
 </html>
+
 
