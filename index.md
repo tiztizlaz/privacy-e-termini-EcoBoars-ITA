@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="it">
 <head>
   <meta charset="UTF-8" />
@@ -221,7 +221,5 @@
   Tiziano Lazzari – Genova<br>
   7 giugno 2025</em></p>
 
-</body>
-</html>
 
 
