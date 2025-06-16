@@ -47,9 +47,8 @@
 </head>
 <body>
 
-  <h1>Privacy e Termini - EcoBoars-ITA </h1>
 
-  <section id="readme">
+ <section id="readme">
     <h2>README</h2>
     <p><strong>privacy-e-termini-EcoBoars-ITA</strong></p>
     <p>
