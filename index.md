@@ -124,7 +124,7 @@
         <li>Accesso alla fotocamera: limitatamente all’attivazione del flash LED. Non viene in alcun caso acquisita o elaborata alcuna immagine o flusso video;</li>
         <li>Accesso all’audio: esclusivamente in uscita, per la riproduzione di suoni integrati. Il microfono non è utilizzato né accessibile;</li>
         <li>Accesso alla vibrazione: per l’attivazione del motore interno del dispositivo;</li>
-        <li>Accesso a Internet: esclusivamente per il caricamento della presente informativa legale, tramite WebView. Nessuna informazione viene trasmessa o ricevuta al di fuori di questo utilizzo.</li>
+        <li>Accesso a Internet: esclusivamente per il caricamento della presente informativa legale per la pagina "come è nata questa applicazione?" tramite WebView. Nessuna informazione viene trasmessa o ricevuta al di fuori di questo utilizzo.</li>
       </ul>
       <p>Nessun altro permesso è richiesto, concesso o utilizzato.</p>
 
@@ -148,7 +148,7 @@
       <p>L’Applicazione non è un dispositivo medico e non è certificata per impieghi di sicurezza o emergenza.</p>
 
       <h2>6. Limitazione di Responsabilità</h2>
-      <p>L’Applicazione viene fornita "così com’è", senza garanzia di funzionamento continuo, correttezza, affidabilità, né idoneità a uno scopo specifico.</p>
+      <p>L’Applicazione viene fornita "così com’è", senza garanzia di affidabilità, né idoneità a uno scopo specifico.</p>
       <p>L’utente utilizza l’Applicazione sotto la propria esclusiva responsabilità. Nei limiti consentiti dalla legge, lo sviluppatore declina ogni responsabilità per:</p>
       <ul>
         <li>Danni diretti, indiretti o consequenziali;</li>
