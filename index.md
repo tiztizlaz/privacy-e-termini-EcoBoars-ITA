@@ -1,9 +1,8 @@
-
 <html lang="it">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Privacy e Termini - Scaccia Cinghiali</title>
+  <title>Privacy e Termini - EcoBoars-ITA </title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -48,13 +47,13 @@
 </head>
 <body>
 
-  <h1>Privacy e Termini - Scaccia Cinghiali</h1>
+  <h1>Privacy e Termini - EcoBoars-ITA </h1>
 
   <section id="readme">
     <h2>README</h2>
-    <p><strong>privacy-e-termini-scaccia-cinghiali</strong></p>
+    <p><strong>privacy-e-termini-EcoBoars-ITA</strong></p>
     <p>
-      Informativa completa sulla privacy e condizioni d’uso dell’app <em>Scaccia Cinghiali</em>. Include accettazione, trattamento dati, limitazioni di responsabilità, diritti utenti, aggiornamenti, uso improprio, sicurezza, e clausole legali secondo GDPR e normativa italiana.
+      Informativa completa sulla privacy e condizioni d’uso dell’app <em>EcoBoars-ITA</em>. Include accettazione, trattamento dati, limitazioni di responsabilità, diritti utenti, aggiornamenti, uso improprio, sicurezza, e clausole legali secondo GDPR e normativa italiana.
     </p>
 
     <h3>Licenza</h3>
@@ -92,19 +91,19 @@
   <hr />
 
   <section id="privacy-policy">
-    <h2>Informativa sulla Privacy e Disclaimer di Responsabilità – Scaccia Cinghiali</h2>
+    <h2>Informativa sulla Privacy e Disclaimer di Responsabilità – EcoBoars-ITA </h2>
     <p><strong>Ultimo aggiornamento:</strong> 7 giugno 2025</p>
 
     <main class="content privacy-terms">
 
-      <h1>Informativa sulla Privacy e Disclaimer di Responsabilità – Scaccia Cinghiali</h1>
+      <h1>Informativa sulla Privacy e Disclaimer di Responsabilità – EcoBoars-ITA </h1>
       <p><strong>Ultimo aggiornamento:</strong> 7 giugno 2025</p>
 
-      <p>La presente informativa è resa da <strong>Tiziano Lazzari</strong>, sviluppatore dell’applicazione "Scaccia Cinghiali" (di seguito, "Applicazione"), ai sensi del Regolamento (UE) 2016/679 (GDPR), del D.lgs. 196/2003 (Codice Privacy, come modificato dal D.lgs. 101/2018), nonché delle ulteriori normative italiane ed europee vigenti in materia di protezione dei dati personali e responsabilità digitale.</p>
+      <p>La presente informativa è resa da <strong>Tiziano Lazzari</strong>, sviluppatore dell’applicazione "EcoBoars-ITA" (di seguito, "Applicazione"), ai sensi del Regolamento (UE) 2016/679 (GDPR), del D.lgs. 196/2003 (Codice Privacy, come modificato dal D.lgs. 101/2018), nonché delle ulteriori normative italiane ed europee vigenti in materia di protezione dei dati personali e responsabilità digitale.</p>
 
       <h2>1. Accettazione dei Termini</h2>
       <p>L’utilizzo dell’Applicazione è subordinato all’accettazione esplicita, completa e consapevole della presente informativa, che comprende i termini sulla privacy, il disclaimer di responsabilità e la licenza d’uso.</p>
-      <p>L’accettazione è richiesta mediante un’interfaccia dedicata, che prevede la pressione di un pulsante contrassegnato da un’icona di cinghiale con spunta verde. L’accesso all’Applicazione è tecnicamente impedito in assenza di tale accettazione: la limitazione è implementata a livello di codice e l’utente non può accedere ad alcuna funzionalità senza conferma esplicita.</p>
+      <p>L’accettazione è richiesta mediante un’interfaccia dedicata, che prevede la pressione di un pulsante contrassegnato da un’icona di cinghiale con spunta verde oltre alla conferma attraverso notifica che esplicita il consenso attraverso bottoni sì o no. L’accesso all’Applicazione è tecnicamente impedito in assenza di tale accettazione: la limitazione è implementata a livello di codice e l’utente non può accedere ad alcuna funzionalità senza conferma esplicita.</p>
       <p>La conferma dell’accettazione è richiesta ad ogni apertura dell’Applicazione, al fine di garantire un consenso sempre attuale, informato e rinnovato.</p>
       <p><em>Nota:</em> l’accettazione non è archiviata su server remoto né trasmessa via Internet. La conferma è registrata localmente sul dispositivo, esclusivamente per la sessione corrente. Nessun dato è conservato oltre la durata della sessione.</p>
 
@@ -142,7 +141,7 @@
       <p>L’utilizzo dell’Applicazione comporta l’emissione di stimoli sensoriali intensi (luci, suoni e vibrazioni) potenzialmente inadatti a determinati soggetti o ambienti. In particolare:</p>
       <ul>
         <li>L’effetto stroboscopico è controindicato per persone affette da epilessia fotosensibile o altre patologie neurologiche;</li>
-        <li>I suoni ad alta intensità possono arrecare disturbo o danni in ambienti chiusi, con animali, o in luoghi sensibili (scuole, ospedali);</li>
+        <li>I suoni ad alta intensità possono arrecare disturbo o danni in ambienti chiusi, con animali, o in luoghi sensibili (scuole, ospedali, ecc.);</li>
         <li>La vibrazione intensa può interferire con dispositivi elettronici o protesi mediche.</li>
       </ul>
       <p>L’utente si assume ogni responsabilità derivante da uso scorretto, imprudente o in ambienti inadeguati.</p>
@@ -159,7 +158,7 @@
       <p>Ai sensi degli articoli 1341 e 1342 del Codice Civile, l’utente accetta espressamente le clausole limitative di responsabilità contenute nella presente informativa.</p>
 
       <h2>7. Minori e Persone Incapaci</h2>
-      <p>L’utilizzo dell’Applicazione è vietato ai minori di 14 anni e alle persone legalmente incapaci, salvo supervisione diretta di un adulto responsabile, che si assume piena responsabilità delle conseguenze.</p>
+      <p>L’utilizzo dell’Applicazione è vietato ai minori di 18 anni e alle persone legalmente incapaci, salvo supervisione diretta di un adulto responsabile, che si assume piena responsabilità delle conseguenze.</p>
 
       <h2>8. Diritti dell’Interessato</h2>
       <p>Pur in assenza di trattamento di dati personali, lo sviluppatore si rende disponibile a fornire chiarimenti e a rispettare i diritti previsti dagli artt. 12-22 del GDPR.</p>
@@ -167,59 +166,68 @@
 
       <h2>9. Modifiche all’Informativa</h2>
       <p>La presente informativa può essere aggiornata in qualunque momento per motivi legali, tecnici o funzionali. Ogni modifica sostanziale verrà notificata all’utente con richiesta di nuova accettazione.</p>
-      <p>La versione aggiornata è sempre consultabile presso l’indirizzo pubblico [inserire link, se disponibile].</p>
+      <p>La versione aggiornata è sempre consultabile presso l’indirizzo pubblico [tiziano.lazzari1@gmail.com nell'oggetto email mettere privacy EcoBoars-ITA].</p>
 
       <h2>10. Contatti</h2>
-  <p>Per qualsiasi richiesta, l’utente può scrivere a:<br>
-  📧 tiziano.lazzari1@gmail.com</p>
-  <p>Le comunicazioni verranno trattate per il solo tempo necessario alla gestione della richiesta e non saranno archiviate oltre tale scopo, salvo obblighi di legge.</p>
+      <p>Per qualsiasi richiesta, l’utente può scrivere a:<br>
+      📧 tiziano.lazzari1@gmail.com</p>
+      <p>Le comunicazioni verranno trattate per il solo tempo necessario alla gestione della richiesta e non saranno archiviate oltre tale scopo, salvo obblighi di legge.</p>
 
-  <h2>11. Foro Competente, Lingua e Limitazioni Territoriali</h2>
-  <p>L’Applicazione è destinata esclusivamente a utenti residenti nella Repubblica Italiana. L’utilizzo in altri territori avviene sotto esclusiva responsabilità dell’utente.</p>
-  <p>La lingua ufficiale dell’informativa è l’italiano. Il foro esclusivamente competente è quello di Genova, salvo diversa disposizione inderogabile di legge.</p>
+      <h2>11. Foro Competente, Lingua e Limitazioni Territoriali</h2>
+      <p>L’Applicazione è destinata esclusivamente a utenti residenti nella Repubblica Italiana. L’utilizzo in altri territori avviene sotto esclusiva responsabilità dell’utente.</p>
+      <p>La lingua ufficiale dell’informativa è l’italiano. Il foro esclusivamente competente è quello di Genova, salvo diversa disposizione inderogabile di legge.</p>
 
-  <h2>12. Uso Improprio e Diritto di Sospensione</h2>
-  <p>È vietato l’uso dell’Applicazione per finalità contrarie alla legge, ai presenti termini o alla destinazione d’uso dichiarata.</p>
-  <p>Lo sviluppatore si riserva il diritto di bloccare o sospendere l’accesso all’Applicazione in caso di:</p>
-  <ul>
-    <li>Uso abusivo, fraudolento o illecito;</li>
-    <li>Violazioni intenzionali o gravi dei presenti termini;</li>
-    <li>Segnalazioni documentate di malfunzionamenti causati da condotta dell’utente.</li>
-  </ul>
+      <h2>12. Uso Improprio e Diritto di Sospensione</h2>
+      <p>È vietato l’uso dell’Applicazione per finalità contrarie alla legge, ai presenti termini o alla destinazione d’uso dichiarata.</p>
+      <p>Lo sviluppatore si riserva il diritto di bloccare o sospendere l’accesso all’Applicazione in caso di:</p>
+      <ul>
+        <li>Uso abusivo, fraudolento o illecito;</li>
+        <li>Violazioni intenzionali o gravi dei presenti termini;</li>
+        <li>Segnalazioni documentate di malfunzionamenti causati da condotta dell’utente.</li>
+      </ul>
 
-  <h2>13. Licenza d’Uso e Divieti</h2>
-  <p>L’Applicazione è concessa in licenza personale, non esclusiva, non trasferibile e revocabile.</p>
-  <p>All’utente è espressamente vietato:</p>
-  <ul>
-    <li>Decompilare, disassemblare o effettuare reverse engineering;</li>
-    <li>Modificare, integrare, vendere o distribuire il codice sorgente;</li>
-    <li>Utilizzare l’Applicazione per finalità commerciali senza autorizzazione scritta.</li>
-  </ul>
+      <h2>13. Licenza d’Uso e Divieti</h2>
+      <p>L’Applicazione è concessa in licenza personale, non esclusiva, non trasferibile e revocabile.</p>
+      <p>All’utente è espressamente vietato:</p>
+      <ul>
+        <li>Decompilare, disassemblare o effettuare reverse engineering;</li>
+        <li>Modificare, integrare, vendere o distribuire il codice sorgente;</li>
+        <li>Utilizzare l’Applicazione per finalità commerciali senza autorizzazione scritta.</li>
+      </ul>
 
-  <h2>14. Clausola di Salvaguardia</h2>
-  <p>Qualora una qualsiasi clausola della presente informativa risulti invalida o inefficace, le restanti disposizioni rimarranno pienamente valide.</p>
+      <h2>14. Clausola di Salvaguardia</h2>
+      <p>Qualora una qualsiasi clausola della presente informativa risulti invalida o inefficace, le restanti disposizioni rimarranno pienamente valide.</p>
 
-  <h2>15. Legge Applicabile</h2>
-  <p>Il presente documento è disciplinato dalla legge italiana, con riferimento prioritario al GDPR e al Codice del Consumo, ove applicabile.</p>
+      <h2>15. Legge Applicabile</h2>
+      <p>Il presente documento è disciplinato dalla legge italiana, con riferimento prioritario al GDPR e al Codice del Consumo, ove applicabile.</p>
 
-  <h2>16. Sicurezza, Manomissioni e Terze Parti</h2>
-  <p>L’Applicazione è progettata per operare in un ambiente integro, sicuro e non modificato.</p>
-  <p>Lo sviluppatore declina ogni responsabilità in caso di danni, malfunzionamenti o violazioni derivanti da:</p>
-  <ul>
-    <li>Rooting, jailbreak o modifiche al sistema operativo;</li>
-    <li>Alterazione del codice sorgente, decompilazione, reverse engineering;</li>
-    <li>Presenza di malware, app malevole o dispositivi compromessi;</li>
-    <li>Attacchi informatici o accessi non autorizzati.</li>
-  </ul>
-  <p>L’utente è tenuto a garantire la sicurezza del proprio dispositivo e a evitare l’uso in contesti non sicuri.</p>
+      <h2>16. Sicurezza, Manomissioni e Terze Parti</h2>
+      <p>L’Applicazione è progettata per operare in un ambiente integro, sicuro e non modificato.</p>
+      <p>Lo sviluppatore declina ogni responsabilità in caso di danni, malfunzionamenti o violazioni derivanti da:</p>
+      <ul>
+        <li>Rooting, jailbreak o modifiche al sistema operativo;</li>
+        <li>Alterazione del codice sorgente, decompilazione, reverse engineering;</li>
+        <li>Presenza di malware, app malevole o dispositivi compromessi;</li>
+        <li>Attacchi informatici o accessi non autorizzati.</li>
+      </ul>
+      <p>L’utente è tenuto a garantire la sicurezza del proprio dispositivo e a evitare l’uso in contesti non sicuri.</p>
 
-  <h2>17. Origine dei Contenuti e Licenze</h2>
-  <p>Tutti i suoni, testi, immagini, grafiche ed elementi dell’interfaccia presenti nell’Applicazione sono stati creati direttamente dallo sviluppatore, oppure generati con l’ausilio di strumenti di intelligenza artificiale, sotto controllo umano diretto.</p>
-  <p>Non sono utilizzati asset di terze parti coperti da licenza commerciale o copyright senza autorizzazione. Eventuali contenuti derivati da strumenti AI sono conformi alle condizioni d’uso delle rispettive piattaforme.</p>
+      <h2>17. Origine dei Contenuti e Licenze</h2>
+      <p>Tutti i suoni, testi, immagini, grafiche ed elementi dell’interfaccia presenti nell’Applicazione sono stati creati direttamente dallo sviluppatore, oppure generati con l’ausilio di strumenti di intelligenza artificiale, sotto controllo umano diretto.</p>
+      <p>Non sono utilizzati asset di terze parti coperti da licenza commerciale o copyright senza autorizzazione. Eventuali contenuti derivati da strumenti AI sono conformi alle condizioni d’uso delle rispettive piattaforme.</p>
 
-  <p><em>In fede,<br>
-  Tiziano Lazzari – Genova<br>
-  7 giugno 2025</em></p>
+      <p><em>In fede,<br>
+      Tiziano Lazzari – Genova<br>
+      7 giugno 2025</em></p>
+
+    </main>
+  </section>
+
+</body>
+</html>
+
+
+
 
 
 
